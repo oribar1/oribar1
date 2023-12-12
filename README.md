@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ori Bar</h1>
 <h3 align="center">Versatile BI Developer and CS Graduate | Python, C, C++ Enthusiast | Crafting Web and Data Analysis Marvels</h3>
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **ML and MERN stack**
 
 - 📫 How to reach me **oribar9243@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
