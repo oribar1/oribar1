@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ori Bar</h1>
-<h3 align="center">Versatile BI Developer and CS Graduate | Python, C, C++ Enthusiast | Crafting Web and Data Analysis Marvels</h3>
+<h3 align="center">Versatile BI Developer and CS Graduate | Python, C, C++ knowledge | Crafting Web and Data Analysis Marvels</h3>
 
 - 🌱 I’m currently learning **ML and MERN stack**
 
