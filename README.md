@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ori Bar</h1>
 <h3 align="center">Versatile BI Developer and CS Graduate | Python, C, C++ knowledge | Crafting Web and Data Analysis Projects</h3>
 
-- 🌱 I’m currently learning ** ML with Python **
+- 🌱 I’m currently learning **ML with Python**
 
 - 📫 How to reach me **oribar9243@gmail.com**
 
